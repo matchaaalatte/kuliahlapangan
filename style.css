@@ -1,0 +1,47 @@
+@import url("https://fonts.cdnfonts.com/css/neue-helvetica-bq");
+body {
+  font-family: "Neue Helvetica BQ", sans-serif;
+  background-color: #004643;
+}
+.btncolor1 {
+  background-color: #f9bc60;
+}
+.btncolor1:hover {
+  background-color: #abd1c6;
+}
+
+.btncolor2 {
+  background-color: #e16162;
+}
+
+.btncolor2:hover {
+  color: #eff0f3;
+  background-color: #004643;
+}
+.posisi {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20%;
+}
+
+.separated {
+  margin-left: 10px;
+}
+
+.textposition {
+  margin-left: 10px;
+}
+
+.positionAbout {
+  margin-top: 15px;
+  margin-left: 25px;
+}
+
+.textabout {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.bgfooter {
+  background-color: #abd1c6;
+}
